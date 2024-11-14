@@ -39,7 +39,7 @@ In addition to the base funding, we are submitting separate proposals for two ma
 *These requests will be presented in separate proposals and subject to individual voting.* <br>
 
 The community has been engaged early while discussing the proposal. For an overview of the detailed budget proposal and FAQ, please visit: 
-https://github.com/Zgirt/QCS-Budget-Proposal/blob/main/README.md
+(https://github.com/Zgirt/QCS-Revised-Budget)
 
 
 # Qubic Core Services Overall Proposal
