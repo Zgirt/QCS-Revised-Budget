@@ -94,16 +94,12 @@ The SFO team focuses on supporting the other workgroups and the ecosystem with s
 
 ![image](https://github.com/user-attachments/assets/52b4e301-2c42-4066-bdf1-bb3bd3eb514b)
 
-
-
 From table 1 you can see we are asking for 512 bnQu for the base operations for 3 months, most probably split into 3 monthly requests to the computers. With optional marketing boosters increasing the request to 587 bnQu and 662 bnQ respectively, spread again over 3 monthly requests. This budget is below the CCF income rate and there will be enough funds left to finance other initiatives. 
 
 
 **Table 2**
 
 ![image2new](https://github.com/user-attachments/assets/b7d83e6a-434e-48a7-8fa6-055deb574bc1)
-
-
 
 We are asking for following payout for November:<br>
 **Option 1: Base proposal: 172.7 bn**<br>
