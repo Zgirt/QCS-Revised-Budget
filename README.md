@@ -8,11 +8,11 @@ Option 1: **Yes, approve the base budget proposal. Payout 172.7 bn**<br>
 **Finance through CCF donations**<br>
 
 
-Option 1, Base proposal: 172.7 bn<br>
+Option 1, Base proposal: **172.7bn**<br>
 
 ------------------------------------------------
-Additional Option 2,  booster 1: 25bn <br>
-Additional Option 3,  booster 1+2: 50 bn<br>
+Additional Option 2,  booster 1: **25bn** <br>
+Additional Option 3,  booster 1+2: **50bn**<br>
 *Seperate Proposals will be released for CCF funding for the two other options* 
 
 
