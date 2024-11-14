@@ -78,7 +78,7 @@ Marketing expenses are allocated for team salaries, collaboration with Serotonin
 Additional Option 2,  booster 1: **25bn** <br>
 Additional Option 3,  booster 1+2: **50bn**<br>
 *Seperate Proposals will be released for CCF funding for the two other options* 
-
+-----------------------------------------------
 
 ### Community Management 
 
