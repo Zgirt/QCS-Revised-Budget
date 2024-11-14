@@ -26,7 +26,7 @@ December and January funding requests will be price-adjusted based on the quorum
 Any leftover budget will be rolled over into the subsequent month to minimize additional CCF requests.
 To optimize expenditure, the payout schedule is split into monthly disbursements.
 
-**Marketing Booster Fund Proposals:**<br>
+**Marketing Booster Fund Proposals:** <br>
 In addition to the base funding, we are submitting separate proposals for two marketing boosters:<br>
 
 **Booster 1 (Option 1): 25bn**<br>
