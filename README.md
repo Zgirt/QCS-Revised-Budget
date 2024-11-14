@@ -100,10 +100,12 @@ From table 1 you can see we are asking for 512 bnQu for the base operations for 
 
 ![image2new](https://github.com/user-attachments/assets/b7d83e6a-434e-48a7-8fa6-055deb574bc1)
 
-**We are asking for following payout for November:** <br>
-**Option 1: Base proposal: 172.7 bn** <br>
+We are asking for following payout for November <br>
 ---
+Option 1: Base proposal: 172.7 bn
 
+
+---
 ## FAQ
 
 **Q. Why do you need so much funding now?**  
