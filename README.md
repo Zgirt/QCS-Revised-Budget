@@ -87,7 +87,7 @@ The SFO team focuses on supporting the other workgroups and the ecosystem with s
 
 **Table 1**  
 
-![table1xx](https://github.com/user-attachments/assets/71f979ac-89bd-42ec-ba96-3eb22fe2b2f8)
+![image](https://github.com/user-attachments/assets/52b4e301-2c42-4066-bdf1-bb3bd3eb514b)
 
 
 
