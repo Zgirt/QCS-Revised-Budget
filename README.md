@@ -12,8 +12,8 @@ Option 1, Base proposal: 172.7 bn<br>
 
 
 ------------------------------------------------
-Option 2, Base + booster 1: 25bn <br>
-Option 3, Base + booster 1+2: 50 bn<br>
+Option 2,  booster 1: 25bn <br>
+Option 3,  booster 1+2: 50 bn<br>
 *Seperate Proposals will be released for CCF funding for the two other options* 
 
 
@@ -107,8 +107,8 @@ From table 1 you can see we are asking for 512 bnQu for the base operations for 
 
 We are asking for following payout for November:<br>
 **Option 1: Base proposal: 172.7 bn**<br>
-**Option 2: Base + booster 1: 197.7 bn**<br>
-**Option 3: Base + booster 1+2: 222.70 bn**
+**Option 2: booster 1: 25 bn**<br>
+**Option 3: booster 1+2: 50 bn**
 
 ---
 
