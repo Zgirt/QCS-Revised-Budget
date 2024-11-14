@@ -26,12 +26,12 @@ December and January funding requests will be price-adjusted based on the quorum
 Any leftover budget will be rolled over into the subsequent month to minimize additional CCF requests.
 To optimize expenditure, the payout schedule is split into monthly disbursements.
 
-**Marketing Booster Fund Proposals:**
-In addition to the base funding, we are submitting separate proposals for two marketing boosters:
+**Marketing Booster Fund Proposals:**<br>
+In addition to the base funding, we are submitting separate proposals for two marketing boosters:<br>
 
-Booster 1 (Option 1): 25bn
-Booster 2 (Option 2): 25bn
-These requests will be presented in separate proposals and subject to individual voting.
+**Booster 1 (Option 1): 25bn**<br>
+**Booster 2 (Option 2): 25bn**<br>
+*These requests will be presented in separate proposals and subject to individual voting.* <br>
 
 The community has been engaged early while discussing the proposal. For an overview of the detailed budget proposal and FAQ, please visit: 
 https://github.com/Zgirt/QCS-Budget-Proposal/blob/main/README.md
