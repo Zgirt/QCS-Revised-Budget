@@ -4,17 +4,20 @@ Proposal: Request to approve the base Qubic Core Services budget proposal
 **Available Options:**<br>
 Option 0: **No, I don’t want**<br>
 Option 1: **Yes, approve the base budget proposal. Payout 172.7 bn**<br>
-Option 2: **Yes, approve the base + booster 1 budget proposal. Payout 197.7 bn**<br>
-Option 3: **Yes, approve the base + booster 1+2 budget proposal.  Payout 222.70 bn**<br>
-<br>
+
 **Finance through CCF donations**<br>
 **Payout for November:**<br>
 
 Payout request:<br> 
 Option 1, Base proposal: 172.7 bn<br>
-Option 2, Base + booster 1: 197.7 bn<br>
-Option 3, Base + booster 1+2: 222.70 bn<br>
 
+
+------------------------------------------------
+Option 2, Base + booster 1: 25bn <br>
+Option 3, Base + booster 1+2: 50 bn<br>
+
+**Seperate Proposals will be released for CCF funding for the two other options** 
+------------------------------------------------
 December and January requests will depend on today's quorum decision and will be price adjusted. Left over budget will be rolled over into the following month to reduce ccf requests. Please see the budget proposal for full details.
 
 Qubic Core Services (QCS) is requesting funding from the Computor Control Fund (CCF) to fund running costs like overhead (salaries and expenses) and to fund basic activities for Marketing, Ecosystem Development, Community Management, Strategy, Finance and Operations. Basic activities include the funding of marketing agency (Serotonin) including growth marking tooling (Addressable, Spindle),market maker, small ecosystem events, legal services (incorporation) and hiring.
@@ -63,8 +66,9 @@ Ecosystem expenses are allocated for team salaries, a new market maker, events, 
 
 ### Marketing
 
-The Marketing team focuses on increasing the brand awareness and visibility of Qubic. It does this through social marketing, content marketing, growth marketing, and PR. To accelerate our impact, we’ve partnered with **Serotonin**, who consults Qubic on brand messaging, earned, paid, and owned media. This budget proposal includes two options to further boost Qubic’s marketing activity:
+The Marketing team focuses on increasing the brand awareness and visibility of Qubic. It does this through social marketing, content marketing, growth marketing, and PR. To accelerate our impact, we’ve partnered with **Serotonin**, who consults Qubic on brand messaging, earned, paid, and owned media. This budget proposal includes two options to further boost Qubic’s marketing activity:<br>
 
+**Additional Options:**
 - **Booster 1 - Tier 1 PR**: 40k p.month on top of base  -> This will allows us to advertise Qubic on renowned platforms like Coindesk , Coindesk Newsletters, Cointelegraph etc.
 - **Booster 1 + 2 - Tier 1 PR + KOLs**: 80k p.month on top of base -> PR from Booster 1 with paid KOLs that are approved and management by some of our current organic KOLs that will Work only with legit and reputable KOLs.
 
