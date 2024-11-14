@@ -87,7 +87,8 @@ The SFO team focuses on supporting the other workgroups and the ecosystem with s
 
 **Table 1**  
 
-![table1xx](https://github.com/user-attachments/assets/4bf86ff7-4f35-4d25-bcdc-f8a37af4d2c5)
+![table1xx](https://github.com/user-attachments/assets/71f979ac-89bd-42ec-ba96-3eb22fe2b2f8)
+
 
 
 From table 1 you can see we are asking for 512 bnQu for the base operations for 3 months, most probably split into 3 monthly requests to the computers. With optional marketing boosters increasing the request to 587 bnQu and 662 bnQ respectively, spread again over 3 monthly requests. This budget is below the CCF income rate and there will be enough funds left to finance other initiatives. 
@@ -95,7 +96,8 @@ From table 1 you can see we are asking for 512 bnQu for the base operations for 
 
 **Table 2**
 
-![image2new](https://github.com/user-attachments/assets/ad94e796-c95c-470c-b5f3-5379c87984bb)
+![new2](https://github.com/user-attachments/assets/c7c49188-451a-4c9c-bf03-03a0773a95fe)
+
 
 We are asking for following payout for November:<br>
 **Option 1: Base proposal: 172.7 bn**<br>
@@ -128,7 +130,8 @@ A. Yes, these funds should be enough at this point. We have secured a partnershi
 
 **Q: how does the payout schedule and weekly ccf projections look like:**
 
-![image](https://github.com/user-attachments/assets/4c878ba8-19cd-4b29-8dba-1f28ab713ea3)
+![image](https://github.com/user-attachments/assets/31979fa4-ea05-425b-b71f-08f29b478324)
+
 
 **Q. Why should we use KOLs?**
 A.To boost existing content creation, to boost brand awareness and visibility. It will help us to reach audiences outside of the POW bubble. If booster 2 is approved, KOLs will be carefully selected. These will be our organic KOLs that have our best interest in mind and are totally in the scene. They offered to give options and to manage them.
@@ -171,7 +174,8 @@ A. Because Qubic Core Service is literally part of the core of Qubic and support
 **Q. Why are we doing ads on X? I only see bots and scammers doing adds on X.**
 A. X ads is simply a small part of a larger marketing mix. Community engagement is very high on X and Telegram and it allows us to target very specific audiences according to the data that we have and build. We for example know from which demographics users are visiting our websites. Via X (and other channels) we can target those same audiences and redirect them to our pages.Below image shows the numbers of impressions we gather after a relatively small spend:
 
-![image](https://github.com/user-attachments/assets/76cdffdd-4426-4737-a065-1e5df030e804)
+![image](https://github.com/user-attachments/assets/48328c0a-de4a-4300-b95a-4e0c44728a6a)
+
 
 
 The 'results' which are roughly 1 for every 800 impressions will get better too. The system is learning the behaviour of people who click on the advert, and it will be able to target people better as the campaign continues
@@ -203,7 +207,8 @@ A. We're following up with the "Forget What You Know. This is Qubic" brand messa
 AI brand messaging is for example: "Turning energy into intelligence" or "Qubic is the chain that creates AGI"
 These is an examples of a design asset that is advertised live
 
-![Picture5](https://github.com/user-attachments/assets/f5483c4e-0447-4b5c-905d-e12f65688ae9)
+![image](https://github.com/user-attachments/assets/3bbee53b-2278-4dc1-bd80-590b81af7f0f)
+
 
 **Q. What do you think about putting more effort on content creation ? Talking about the projects built on the network, what Qubic could be used for (there's a lot to say here) ? And putting mechanisms that push the community to interact much more, incentives**
 A. Great feedback, we appreciate it. It has been planned as a series i.e. the grant projects etc. You saw we covered the last ones as well. For mechanisms we have the Ambassadors pushing and the community here pushing. Our engagement rate is high however I feel that we need to bring in KOLs to spread the word. Right now we need fast spreading of the name Qubic. For it to be visible everywhere so when retail comes online looking for what to buy, they see Qubic Ai and buy it. Imagine you as retail hearing btc breaking ATH and Trump pro crypto. You wanna know what to buy, you go on social and see qubic everywhere. That's what you buy.It's a precedent not a degen first time gamble.
