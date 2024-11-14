@@ -65,16 +65,17 @@ The Marketing team focuses on increasing the brand awareness and visibility of Q
 
 **Additional Options:**
 - **Booster 1 - Tier 1 PR**: 40k p.month on top of base  -> This will allows us to advertise Qubic on renowned platforms like Coindesk , Coindesk Newsletters, Cointelegraph etc.
-- **Booster 1 + 2 - Tier 1 PR + KOLs**: 80k p.month on top of base -> PR from Booster 1 with paid KOLs that are approved and management by some of our current organic KOLs that will Work only with legit and reputable KOLs.
+- **Booster 2 - KOLs**: 40k p.month on top of base -> PR from Booster 1 with paid KOLs that are approved and management by some of our current organic KOLs that will Work only with legit and reputable KOLs.
+
 
 Marketing expenses are allocated for team salaries, collaboration with Serotonin, AD spent for growth , outreach via X spaces, youtube collaborations & podcasts. Furthermore PR preferably through T1 media articles , newsletters or interviews.
 **Note**: Important to know is that this is still not full throttle marketing compared to other projects and for the things we want to achieve. But while looking at the current CCF these are reasonable numbers that will still get us an awesome boost short term. 
 
-
+ 
 ------------------------------------------------
-Additional Option 2,  booster 1: **25bn** <br>
-Additional Option 3,  booster 1+2: **50bn**<br>
-*Seperate Proposals will be released for CCF funding for the two other options* 
+Additional Proposal for option  1,  booster 1: **25bn** <br>
+Additional Proposal for option 2,  booster 2: **25bn**<br>
+*Seperate Proposals will be released for CCF funding for these two options* 
 
 -----------------------------------------------
 
