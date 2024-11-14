@@ -107,9 +107,6 @@ From table 1 you can see we are asking for 512 bnQu for the base operations for 
 
 We are asking for following payout for November:<br>
 **Option 1: Base proposal: 172.7 bn**<br>
-**Option 2: booster 1: 25 bn**<br>
-**Option 3: booster 1+2: 50 bn**
-
 ---
 
 ## FAQ
