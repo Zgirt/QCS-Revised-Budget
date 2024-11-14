@@ -6,7 +6,6 @@ Option 0: **No, I don’t want**<br>
 Option 1: **Yes, approve the base budget proposal. Payout 172.7 bn**<br>
 
 **Finance through CCF donations**<br>
-**Payout for November:**<br>
 
 Payout request:<br> 
 Option 1, Base proposal: 172.7 bn<br>
@@ -15,9 +14,8 @@ Option 1, Base proposal: 172.7 bn<br>
 ------------------------------------------------
 Option 2, Base + booster 1: 25bn <br>
 Option 3, Base + booster 1+2: 50 bn<br>
+*Seperate Proposals will be released for CCF funding for the two other options* 
 
-**Seperate Proposals will be released for CCF funding for the two other options** 
-------------------------------------------------
 December and January requests will depend on today's quorum decision and will be price adjusted. Left over budget will be rolled over into the following month to reduce ccf requests. Please see the budget proposal for full details.
 
 Qubic Core Services (QCS) is requesting funding from the Computor Control Fund (CCF) to fund running costs like overhead (salaries and expenses) and to fund basic activities for Marketing, Ecosystem Development, Community Management, Strategy, Finance and Operations. Basic activities include the funding of marketing agency (Serotonin) including growth marking tooling (Addressable, Spindle),market maker, small ecosystem events, legal services (incorporation) and hiring.
