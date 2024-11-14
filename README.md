@@ -13,11 +13,25 @@ Proposal: Request to approve the base Qubic Core Services budget proposal
 
 Overview
 -----------------------------------------------
-December and January requests will depend on today's quorum decision and will be price adjusted. Left over budget will be rolled over into the following month to reduce ccf requests. Please see the budget proposal for full details.
+Qubic Core Services (QCS) Funding Proposal Summary
+QCS is requesting funding from the Computor Control Fund (CCF) to cover essential operating costs and support key activities across various departments, including:
 
-Qubic Core Services (QCS) is requesting funding from the Computor Control Fund (CCF) to fund running costs like overhead (salaries and expenses) and to fund basic activities for Marketing, Ecosystem Development, Community Management, Strategy, Finance and Operations. Basic activities include the funding of marketing agency (Serotonin) including growth marking tooling (Addressable, Spindle),market maker, small ecosystem events, legal services (incorporation) and hiring.
+Overheads: Salaries and general expenses.
+Marketing & Growth: Engagement with a marketing agency (Serotonin) and utilization of growth marketing tools (Addressable, Spindle), market makers.
+Ecosystem Development: Support for small events and ecosystem-building initiatives.
+Community Management, Strategy, Finance & Operations: Ongoing operational needs, including legal (incorporation) services and strategic hires.
 
-To reduce our spending, we’ve split the pay-out schedules into monthly payments
+**Budget Adjustments:**
+December and January funding requests will be price-adjusted based on the quorum decision.
+Any leftover budget will be rolled over into the subsequent month to minimize additional CCF requests.
+To optimize expenditure, the payout schedule is split into monthly disbursements.
+
+**Marketing Booster Fund Proposals:**
+In addition to the base funding, we are submitting separate proposals for two marketing boosters:
+
+Booster 1 (Option 1): 25bn
+Booster 2 (Option 2): 25bn
+These requests will be presented in separate proposals and subject to individual voting.
 
 The community has been engaged early while discussing the proposal. For an overview of the detailed budget proposal and FAQ, please visit: 
 https://github.com/Zgirt/QCS-Budget-Proposal/blob/main/README.md
@@ -73,8 +87,8 @@ Marketing expenses are allocated for team salaries, collaboration with Serotonin
 
  
 ------------------------------------------------
-Additional Proposal for option  1,  booster 1: **25bn** <br>
-Additional Proposal for option 2,  booster 2: **25bn**<br>
+Additional Proposal for Booster 1 (Option 1): **25bn** <br>
+Additional Proposal for Booster 2 (Option 2): **25bn**<br>
 *Seperate Proposals will be released for CCF funding for these two options* 
 
 -----------------------------------------------
