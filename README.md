@@ -11,10 +11,7 @@ Proposal: Request to approve the base Qubic Core Services budget proposal
 ------------------------------------------------------------------------------------
 
 
-**Finance through CCF donations**<br>
-Option 1, Base proposal: **172.7bn**<br>
-
-
+Overview
 -----------------------------------------------
 December and January requests will depend on today's quorum decision and will be price adjusted. Left over budget will be rolled over into the following month to reduce ccf requests. Please see the budget proposal for full details.
 
