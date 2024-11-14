@@ -19,17 +19,18 @@ QCS is requesting funding from the Computor Control Fund (CCF) to cover essentia
 The budget proposal will consist of 3 different CCF Fund requests. <br> 
 
 **Budget Proposal:**
+
 Overheads: Salaries and general expenses. <br>
 Marketing & Growth: Engagement with a marketing agency (Serotonin) and utilization of growth marketing tools (Addressable, Spindle), market makers.<br>
 Ecosystem Development: Support for small events and ecosystem-building initiatives.<br>
 Community Management, Strategy, Finance & Operations: Ongoing operational needs, including legal (incorporation) services and strategic hires.<br>
 
-**Budget Adjustments:**
+Budget Adjustments:
 December and January funding requests will be price-adjusted based on the quorum decision.
 Any leftover budget will be rolled over into the subsequent month to minimize additional CCF requests.
 To optimize expenditure, the payout schedule is split into monthly disbursements.
 
-**Additional Proposals 2 & 3**
+**Additional Proposals 2 & 3** <br>
 Marketing Booster Fund Proposals: <br>
 In addition to the base funding, we are submitting separate proposals for two marketing boosters:<br>
 
