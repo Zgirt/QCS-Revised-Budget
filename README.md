@@ -4,9 +4,10 @@ Proposal: Request to approve the base Qubic Core Services budget proposal
 
 **Available Options:**<br>
 
-------------------------------------------------------------------------------------
-Option 0: **No, I don’t want**<br>
-Option 1: **Yes, approve the base budget proposal. Payout 172.7 bn**<br>
+
+-Option 0: **No, I don’t want**<br>
+-Option 1: **Yes, approve the base budget proposal. Payout 172.7 bn**<br>
+
 ------------------------------------------------------------------------------------
 
 
