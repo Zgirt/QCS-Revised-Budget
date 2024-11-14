@@ -7,9 +7,8 @@ Option 1: **Yes, approve the base budget proposal. Payout 172.7 bn**<br>
 
 **Finance through CCF donations**<br>
 
-Payout request:<br> 
-Option 1, Base proposal: 172.7 bn<br>
 
+Option 1, Base proposal: 172.7 bn<br>
 
 ------------------------------------------------
 Option 2,  booster 1: 25bn <br>
@@ -101,8 +100,8 @@ From table 1 you can see we are asking for 512 bnQu for the base operations for 
 
 ![image2new](https://github.com/user-attachments/assets/b7d83e6a-434e-48a7-8fa6-055deb574bc1)
 
-We are asking for following payout for November:<br>
-**Option 1: Base proposal: 172.7 bn**<br>
+**We are asking for following payout for November:** <br>
+**Option 1: Base proposal: 172.7 bn** <br>
 ---
 
 ## FAQ
