@@ -58,7 +58,6 @@ Additionally, the team will work to pave the way for the ecosystem to operate in
 Ecosystem is also a horizontal service that supports both the marketing and core tech teams. Likewise, Ecosystem requires collaboration from these two departments.
 
 The grants and incubation programs already have their own funding, and this budget allocation will not expand these funds. Current expenses can be viewed in the following spreadsheets:<br>
-
 	•	**Grants**: https://docs.google.com/spreadsheets/d/1zvda8WZzVljbu6LKMxdTnNlt2Fj5T65xlH6FSOvO33k/edit?usp=sharing <br>
 	•	**Incubation**: https://docs.google.com/spreadsheets/d/1ncuM_LT8HFMuD5D7FXHGrXITACNgD2W17FZqxygz58A/edit?usp=sharing <br>
 
