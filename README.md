@@ -15,6 +15,7 @@ Overview
 -----------------------------------------------
 Qubic Core Services (QCS) Funding Proposal Summary
 QCS is requesting funding from the Computor Control Fund (CCF) to cover essential operating costs and support key activities across various departments, including:<br>
+The budget proposal will consist of 3 different CCF Fund requests. <br> 
 
 **Overheads: Salaries and general expenses.** <br>
 **Marketing & Growth:** Engagement with a marketing agency (Serotonin) and utilization of growth marketing tools (Addressable, Spindle), market makers.<br>
