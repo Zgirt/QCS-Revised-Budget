@@ -96,7 +96,8 @@ From table 1 you can see we are asking for 512 bnQu for the base operations for 
 
 **Table 2**
 
-![new2](https://github.com/user-attachments/assets/c7c49188-451a-4c9c-bf03-03a0773a95fe)
+![image2new](https://github.com/user-attachments/assets/b7d83e6a-434e-48a7-8fa6-055deb574bc1)
+
 
 
 We are asking for following payout for November:<br>
