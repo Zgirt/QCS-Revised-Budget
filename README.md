@@ -3,20 +3,13 @@
 Proposal: Request to approve the base Qubic Core Services budget proposal
 
 **Available Options:**<br>
+------------------------------------------------------------------------------------
 Option 0: **No, I don’t want**<br>
 Option 1: **Yes, approve the base budget proposal. Payout 172.7 bn**<br>
+------------------------------------------------------------------------------------
 
 **Finance through CCF donations**<br>
-
-
 Option 1, Base proposal: **172.7bn**<br>
-
-------------------------------------------------
-Additional Option 2,  booster 1: **25bn** <br>
-Additional Option 3,  booster 1+2: **50bn**<br>
-*Seperate Proposals will be released for CCF funding for the two other options* 
-
-
 
 -----------------------------------------------
 December and January requests will depend on today's quorum decision and will be price adjusted. Left over budget will be rolled over into the following month to reduce ccf requests. Please see the budget proposal for full details.
@@ -75,6 +68,12 @@ The Marketing team focuses on increasing the brand awareness and visibility of Q
 
 Marketing expenses are allocated for team salaries, collaboration with Serotonin, AD spent for growth , outreach via X spaces, youtube collaborations & podcasts. Furthermore PR preferably through T1 media articles , newsletters or interviews.
 **Note**: Important to know is that this is still not full throttle marketing compared to other projects and for the things we want to achieve. But while looking at the current CCF these are reasonable numbers that will still get us an awesome boost short term. 
+
+
+------------------------------------------------
+Additional Option 2,  booster 1: **25bn** <br>
+Additional Option 3,  booster 1+2: **50bn**<br>
+*Seperate Proposals will be released for CCF funding for the two other options* 
 
 
 ### Community Management 
