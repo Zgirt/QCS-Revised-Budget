@@ -57,9 +57,53 @@ QCS is requesting funding from the **Computor Control Fund (CCF)** to fund runni
 
 All QCS workgroups work closely together to achieve the following three objectives:
 
-- Develop a vibrant ecosystem for all our stakeholders (token holders, miners, partners, and institutions).
-- Advance AI research and core development.
-- Ensure Qubic’s ecosystem financial health and long-term success.
+- Develop a vibrant ecosystem for all our stakeholders (coin holders, miners, partners and institutions)
+- Advance AI research.
+- Ensure Qubic’s ecosystem’s financial health and long-term success.
+
+**To develop a vibrant ecosystem that attracts developers, users, partners and institutions that we need to be able to execute on our marketing strategy.**
+
+Our marketing strategy is focused on achieving one main objective which is to increase Qubic’s audience and brand awareness. 
+
+
+We aim to achieve this through 4 different large scale initiatives: 
+
+**1. Brand Positioning:** <br>
+Positioning Qubic in the market requires developing the right messaging to resonate with our audiences and achieve success across marketing channels. With the FWYK campaign we have created a new brand narrative, audience-specific messaging, and a strategy for joining broader industry conversations across three audiences: PoW, Crypto Twitter and new joiners in the crypto space. The FWYK X announcement itself generated over 100K impressions on just X.<br>
+
+**2. Brand Communications and PR** <br>
+To increase our brand awareness, we need to go beyond the current PoW bubble. We need a dynamic PR and Brand Communication approach to earned and paid media that focuses on building a strong, impactful presence in all relevant channels.We need to be at the places where our audience reads crypto news, watches YouTube videos, or scroll on X. These audiences gather their news from leading publications such as CoinDesk, Decrypt, The Block, and Blockworks, as well as top podcasts in the industry. As well trying to secure coverage in prominent business (Bloomberg, Forbes, WSJ), tech (TechCrunch, VentureBeat, The Verge), and culture (Rolling Stone, TODAY Show) publications. <br>
+
+Thus far we have established a content creation team and a press office in collaboration with Seronotin that manages all media and event requests and that formalises a strategic approach to pursue high-impact opportunities. We have also:<br>
+- Created a communications calendar to coordinate Qubic’s brand and X announcements and map narratives to industry trends and events.We aim to further streamline operations to allow content creators more time to pursue leads in other social media channels.<br>
+- We want to run more announcement-driven campaigns, including media strategy, messaging creation (press releases, blog posts), in coordination with internal/external stakeholders like market makers.<br>
+-We also want to continue to proactively pitch Qubic to strategic media opportunities and coordinating commentary and interview requests with a view to building a reputation as an industry leader.<br>
+-We would also like to secure plans to elevate the profile of some of Qubic’s key leaders through podcasts, op-eds, trend analysis, and commentary opportunities to reach core audiences and allow our staff to be known industry-wide as thought leaders.<br>
+
+**3. Growth Marketing** <br>
+We have employed a data-driven strategy to optimize Qubic’s marketing channels. By working closely with Serotonin and using tools like Addressable and Spindle, we can monitor on-chain and off-chain data to gain a holistic view of customer behavior and preferences. We use that data to optimise advertising across crypto websites, X, Telegram and Discord. We can track the impact of almost every dollar we spend in terms of impressions and other conversions to our website and market buy buttons. We use a data-first approach to ensure we execute and monitor campaigns effectively across all disciplines, driving growth and engagement. We use audience feedback and campaign analytics from the above tools to continuously refine our efforts to understand our audiences and maximize results. This data will be released weekly on our discord, beginning tonight (18th November 2024). <br>
+
+**4. Organise KOL Push** <br>
+
+Deliverables
+We measure the attribution of pretty much everything we do. We use tooling systems such as Addressable and Google Analytics. These allow us to measure the impact of our efforts across for many platforms, for  example X. These are the key-results that we aim to achieve. 
+
+O1: Increase Qubic's Audience & Brand Awareness<br>
+KR1: Deliver Growth strategy that drives brand awareness<br>
+KR2: Drive a 25% increase in Qubic's X followers<br>
+KR3: Drive a 25% increase in Qubic's Discord followers<br>
+KR4:  2-8% CTR from Spindl Ads to the Qubic site<br>
+KR5: Drive a 25% increase in Qubic's Telegram followers<br>
+KR6: 5 paid sponsorships per quarter, generate 1,000 unique clicks<br>
+KR7: Deliver PR Strategy tailored for brand building + exposure<br>
+KR8: Conduct executive interviews and create bios for key spox<br>
+KR9:Conduct group and individual media trainings<br>
+KR10: 6 Media hits per Quarter <br>
+KR11: 3 Bylines per Quarter <br>
+KR12: 2 Podcast per Quarter<br>
+KR13: 3 KOL campaigns per quarter, generate 50,000 impressions<br>
+
+FWYK. This is Qubic.<br>
 
 
 ### Ecosystem Development
